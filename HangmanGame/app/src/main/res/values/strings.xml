@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HangmanGame</string>
+    <string name="Info">You guessed letters are:</string>
+</resources>
